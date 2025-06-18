@@ -267,7 +267,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## License
 
-This project is licensed under the MIT License - see the [[LICENSE](https://github.com/TroubleGy/INI-JSON-XML-Parser/blob/main/LICENCE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/TroubleGy/INI-JSON-XML-Parser/blob/main/LICENCE) file for details.
 
 ## Roadmap
 
